@@ -23,8 +23,6 @@ Este projeto é a solução para o desafio técnico de Front-End da [EngagED](ht
 - [Vitest](https://vitest.dev/)
 - [Rick and Morty GraphQL API](https://rickandmortyapi.com/documentation/#graphql)
 
-## 📁 Estrutura do projeto
-
 ## 🚀 Como rodar o projeto
 
 ### 1. Instale as dependências
